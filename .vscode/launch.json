@@ -9,6 +9,16 @@
       "mainClass": "com.backend.demo.DemoApplication",
       "projectName": "demo",
       "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Spring Boot-BackendApplication<backend>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "mainClass": "com.sampleapp.backend.BackendApplication",
+      "projectName": "backend",
+      "args": ""
     }
   ]
 }
